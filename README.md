@@ -38,4 +38,4 @@ To ungroup tabs, simply right-click on the tab group and select "Ungroup".
 
 ## Support
 
-If you encounter any issues or have any suggestions, please [open an issue](https://github.com/example/tab-grouping-extension/issues) on the Github repository.
+If you encounter any issues or have any suggestions, please [open an issue](https://github.com/abdulbugti1/tabs-manager/issues) on the Github repository.
