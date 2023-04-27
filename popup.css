@@ -10,3 +10,7 @@ button {
   background: darkgray;
   cursor: pointer;
 }
+
+#error {
+  color: red;
+}
