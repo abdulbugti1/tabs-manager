@@ -1,4 +1,4 @@
-# tabs-manager Chrome Extension
+# tabs-manager chrome extension
 
 This Chrome extension groups tabs based on a specified URL pattern. It allows users to organize their tabs more efficiently and improve their browsing experience.
 
@@ -20,9 +20,10 @@ Once the extension is installed, follow these steps to group your tabs:
 
 1. Open the tabs you want to group.
 2. Click on the extension icon in the Chrome toolbar.
-3. Enter the URL pattern you want to group the tabs by (e.g. "https://example.com/*").
-4. Click "Group Tabs".
-5. All tabs with URLs that match the pattern will be grouped together.
+3. Enter a name for the group.
+4. Enter the URL pattern you want to group the tabs by (e.g. "https://example.com/*").
+5. Click "Group Tabs".
+6. All tabs with URLs that match the pattern will be grouped together.
 
 ![Screenshot](images/screenshot.png)
 
