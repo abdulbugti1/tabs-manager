@@ -26,6 +26,7 @@ Once the extension is installed, follow these steps to group your tabs:
 6. All tabs with URLs that match the pattern will be grouped together.
 
 To ungroup tabs, simply right-click on the tab group and select "Ungroup".
+
 To update a group, simply click on the "Update Groups" button and it will update all groups with all relevant tabs.
 
 ## Features
