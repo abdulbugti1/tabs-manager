@@ -1,4 +1,4 @@
-async function groupTabs(domainPattern, groupName, gColor = undefined) {
+async function groupTabs(domainPattern, groupName, gColor) {
   try {
     const tabs = await chrome.tabs.query({
       url: [domainPattern],
@@ -34,7 +34,6 @@ updateGroupsButton.addEventListener("click", async () => {
   chrome.tabGroups.query({}, function (groups) {
     groups.forEach(function (group) {
       // A group has following keys: collapsed,color,id,title,windowId
-      let gID = group.id;
       let gName = group.title;
       let gColor = group.color;
       let gPattern = localStorage[gName];
